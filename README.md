@@ -87,7 +87,7 @@
 
 <!-- 📫 Let's Connect Section -->
 <!-- 📫 Let's Connect Section -->
-<h3 align="center">📫 Let's Connect!</h3>
+<h3 align="center">📫 Let's Connect!</h3> 
 
 <p align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; align-items: center; margin-top: 20px;">
 
@@ -102,8 +102,8 @@
   </a>
 
   <!-- Portfolio -->
-  <a href="https://vishalkashyap.netlify.app" target="_blank" title="Portfolio" style="display: inline-block; font-family: 'Segoe UI', sans-serif; font-size: 1.2rem; color: #0073b1; font-weight: 600; text-decoration: none;">
+  <!--<a href="https://vishalkashyap.netlify.app" target="_blank" title="Portfolio" style="display: inline-block; font-family: 'Segoe UI', sans-serif; font-size: 1.2rem; color: #0073b1; font-weight: 600; text-decoration: none;">
     🌐 Explore My Work
-  </a>
+  </a>  -->
 
 </p>
