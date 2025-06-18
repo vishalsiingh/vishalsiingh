@@ -4,13 +4,15 @@
 </h1>
 
 <h3 align="center">
-  🚀 Full-Stack Web Developer | 🚀 Keploy API Fellow | 
+   💻 Full-Stack Developer | Software Development | UI/UX Enthusiast |  🧠 AI & Data Enthusiast | 🌐 Keploy API Fellow
 </h3>
 
+
 <p align="center" style="max-width: 700px; margin: auto; font-size: 16px;">
-  I’m from 🇮🇳 India, passionate about crafting impactful end-to-end digital solutions. I love exploring the intersection of 
-  <strong>Software Engineering</strong>, <strong>Cloud Technologies</strong>, and <strong>Data Analytics</strong>. <br/>
-  Currently pursuing <strong>B.Tech in Computer Science</strong> and actively looking for <em>internships</em> & <em>freelance projects</em>.
+  I’m from 🇮🇳 India, passionate about building practical, end-to-end tech solutions. I enjoy working at the crossroads of 
+  <strong>Web Development</strong>, <strong>AI/NLP</strong>, and <strong>Data Analytics</strong>. <br/>
+  Currently pursuing <strong>B.Tech in Computer Science</strong>, with hands-on experience in open-source, internships, and freelance projects. 
+  Actively seeking <em>internship opportunities</em> and <em>collaborative tech projects</em>.
 </p>
 
 <!-- GIF (updated to a cleaner, modern style) -->
@@ -24,12 +26,35 @@
 
 ### 🚀 What I'm Working On
 
-- 💻 Crafting **full-stack web apps** using React, Tailwind CSS, Next.js, and PHP with modern UI/UX
-- 📊 Building **interactive dashboards** and conducting insights-driven **data analysis** using Power BI & Python
-- ☁️ Exploring **cloud deployment** and automation with AWS (EC2, S3) and Docker
-- 🧠 Enhancing projects with **AI/NLP integrations**, like smart resume matchers and text detection
-- 🛠️ Learning **System Design**, improving with **DevOps tools** like GitHub Actions, and exploring CI/CD
-- 🌐 Actively engaging in **college tech communities**, mentoring peers, and contributing to open-source
+- 💻 Building **full-stack web apps** using React, Tailwind CSS, Next.js, and PHP with a strong focus on clean UI/UX and performance  
+- 📊 Creating **interactive dashboards** and doing **insightful data analysis** using Python and Power BI to drive decision-making  
+- ☁️ Exploring **cloud deployment** with AWS (EC2, S3) and Docker for scalable and efficient hosting  
+- 🧠 Integrating **AI/NLP features** like smart resume matching, keyword extraction, and voice cloning into real-world projects  
+- 🛠️ Learning **System Design**, diving into **DevOps tools** like GitHub Actions, and setting up **CI/CD pipelines**  
+- 🎨 Created **FlexCard** – a digital freelance identity card generator with export-to-image support, built using React & html2canvas  
+- 🤖 Working on **DevMatch** – a smart developer career platform that uses AI to match talent with the right tech opportunities  
+- 🌐 Actively contributing to **open-source projects** through the Keploy API Fellowship, while mentoring peers and growing tech communities in college  
+
+### 🏆 Achievements
+
+- ✅ Selected for the **Keploy API Fellowship** (2025 Cohort)  
+- 🏅 Worked as a **Software Developer Intern** at **Aegistech Innovations**  
+- 📜 Earned certifications in:
+  - IBM DevOps & Software Engineering
+  - Google Data Analytics
+  - IIM Ahmedabad – Strategy & Game Theory
+  - Business Analytics – University of Colorado Boulder  
+- 🧑‍🏫 Served as **Campus Ambassador** at Jyesta Corporate Entity  
+- 🌟 Built and deployed multiple full-stack projects including Resume Matcher, Fitness Tracker, Online Voting App, and more  
+
+### 💡 Interests
+
+- 🤖 Exploring **AI, NLP**, and integrating smart features into real-world applications  
+- 🌐 Building creative **full-stack web apps** with modern tech stacks and clean UI/UX  
+- 📊 Working on **data analytics & dashboards** to extract meaningful insights using Python & Power BI  
+- ☁️ Learning and experimenting with **cloud deployment**, **AWS**, and **Docker**  
+- 🛠️ Diving deeper into **System Design**, CI/CD, and **DevOps tools** like GitHub Actions  
+- 🚀 Engaging in **open-source contributions**, fellowships, and mentoring juniors in tech communities  
 
 
 ---
