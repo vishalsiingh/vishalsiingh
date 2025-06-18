@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Full-Stack Web Developer | 📊 Data Analyst | 💡 Tech Enthusiast
+  🚀 Full-Stack Web Developer | 🚀 Keploy API Fellow | 
 </h3>
 
 <p align="center" style="max-width: 700px; margin: auto; font-size: 16px;">
